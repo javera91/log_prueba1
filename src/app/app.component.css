@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+    background-color:rgb(37, 37, 37);
+    padding: 1rem;
+    color:white;
+}
+
+.profile-picture{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.p1{
+    margin: 5px 5px 5px 5px;
+    font-size: small;
+}
+.principal{
+    padding: 5px 15px 5px 15px;
+}
+
+.tarjeta{
+    padding: 5px 15px 5px 15px;
+    margin: 3px 3px 3px 3px;
+    background-color: white;
+}
+
+.interno{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card{
+    background-color: #dddddd;
+    padding: 5px 15px 5px 15px;
+}
+
+.card:hover{
+    transition: background-color 0.5s, box-shadow 0.3s;
+    background-color: rgb(92, 12, 12);
+    color: white;
+    cursor: pointer;
+
+}
