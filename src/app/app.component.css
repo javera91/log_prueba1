@@ -34,7 +34,7 @@ header{
 }
 
 .card:hover{
-    transition: background-color 0.5s, box-shadow 0.3s;
+    transition: background-color 0.5s;
     background-color: rgb(92, 12, 12);
     color: white;
     cursor: pointer;
